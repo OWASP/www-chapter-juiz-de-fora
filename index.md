@@ -93,10 +93,10 @@ Segue uma lista de alguns dos principais projetos da comunidade
 
 Nós utilizamos o Meetup para manter uma agenda de eventos, confira nossa página na plataforma: [Juiz de Fora Meetup Group](https://www.meetup.com/owasp-juiz-de-fora-chapter/)
 
+Nossos encontros são sempre abertos para o público, e você não precisa ser um membro OWASP para participar. Entretanto, considere se juntar à OWASP  [seja um membro OWASP](https://owasp.org/membership/) se você considera que nossas comunidades, projetos e encontros são valiosos, considere também patrocinar este capítulo.
+
+<br>
 
 {% include chapter_events.html group=page.meetup-group %}
-
-
-Nossos encontros são sempre abertos para o público, e você não precisa ser um membro OWASP para participar. Entretanto, considere se juntar à OWASP  [seja um membro OWASP](https://owasp.org/membership/) se você considera que nossas comunidades, projetos e encontros são valiosos, considere também patrocinar este capítulo.
 
 <br>
