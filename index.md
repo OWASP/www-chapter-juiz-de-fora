@@ -2,7 +2,8 @@
 
 layout: col-sidebar
 title: OWASP Juiz de Fora
-tags: example-tag
+tags: chapter-juiz-de-fora
+level: 0
 region: South America
 country: Brazil
 meetup-group: owasp-juiz-de-fora-chapter
