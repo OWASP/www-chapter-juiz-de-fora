@@ -18,7 +18,7 @@ Seja bem-vindo a página da OWASP Chapter Juiz de Fora!
 </center>
 
 <br>
-A OWASP Juiz de Fora é um segundo capítulo mineiro entre os mais de duzentos e sessenta e cinco capítulos ativos ao redor do mundo. Nosso objetivo é disseminar a missão da OWASP, tornando a segurança das aplicações visível, para que pessoas e organizações possam fazer escolhas informadas sobre os riscos reais à segurança das aplicações.
+A OWASP Juiz de Fora é o segundo capítulo mineiro entre os mais de duzentos e sessenta e cinco capítulos ativos ao redor do mundo. Nosso objetivo é disseminar a missão da OWASP, tornando a segurança das aplicações visível, para que pessoas e organizações possam fazer escolhas informadas sobre os riscos reais à segurança das aplicações.
 Encontros serão organizados para possibilitar o compartilhamento de conhecimentos, discussões e aprendizado sobre segurança de software. A organização também conta com diversos projetos ativos, nos quais voluntários podem se engajar para desenvolver códigos e documentos que beneficiem a comunidade global de segurança.<br>
 <br>
 Juiz de Fora, localizada na Zona da Mata de Minas Gerais, teve um crescimento impulsionado pelo café no século XIX e pela industrialização no século XX.
