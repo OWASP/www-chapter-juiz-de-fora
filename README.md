@@ -62,7 +62,7 @@ Nossa equipe de liderança atual inclui:
 ---
 
 <p align="center">
-  <img src="assets/images/owasp-JF-black-logo.png" alt="OWASP JF Icon" width="100">
+  <img src="assets/images/owasp-JF-round-logo.png" alt="OWASP JF Icon" width="100">
 </p>
 
 <p align="center">
