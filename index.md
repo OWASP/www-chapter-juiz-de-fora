@@ -47,6 +47,8 @@ Com uma economia diversificada, Juiz de Fora preserva sua relevância cultural, 
 
 <img src="assets/images/owasp-JF-round-logo.png" alt="OWASP JF Icon" width="25" height="25"> **Contribua com a Comunidade**: Seja voluntário em projetos da OWASP e no capítulo de Juiz de Fora para fortalecer a segurança de software globalmente.
 
+<br>
+
 ### Faça parte da comunidade global que está avançando na segurança de software.
 
 👉 Torne-se membro hoje mesmo: [Link para Associação OWASP](https://owasp.org/membership/)
