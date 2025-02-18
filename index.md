@@ -38,15 +38,15 @@ Com uma economia diversificada, Juiz de Fora preserva sua relevância cultural, 
 
 # Contribuir com a OWASP é investir no seu sucesso profissional!
 
-<img src="assets/images/owasp-JF-round-logo.png" alt="OWASP JF Icon" width="35" height="35"> **Expanda Sua Rede e Carreira**: Participe dos encontros do capítulo de Juiz de Fora e eventos da OWASP para se conectar com especialistas e acessar oportunidades exclusivas na área de segurança de aplicações.
+<img src="assets/images/owasp-JF-round-logo.png" alt="OWASP JF Icon" width="25" height="25"> **Expanda Sua Rede e Carreira**: Participe dos encontros do capítulo de Juiz de Fora e eventos da OWASP para se conectar com especialistas e acessar oportunidades exclusivas na área de segurança de aplicações.
 
-<img src="assets/images/owasp-JF-round-logo.png" alt="OWASP JF Icon" width="35" height="35"> **Faça a Diferença na OWASP**: Exerça seu direito de voto nas eleições do Conselho Global e contribua para o futuro da organização.
+<img src="assets/images/owasp-JF-round-logo.png" alt="OWASP JF Icon" width="25" height="25"> **Faça a Diferença na OWASP**: Exerça seu direito de voto nas eleições do Conselho Global e contribua para o futuro da organização.
 
-<img src="assets/images/owasp-JF-round-logo.png" alt="OWASP JF Icon" width="35" height="35"> **Aprimore Suas Habilidades**: Tenha descontos em treinamentos e eventos, além de acesso a todos os projetos da OWASP para aprimorar seus conhecimentos em AppSec.
+<img src="assets/images/owasp-JF-round-logo.png" alt="OWASP JF Icon" width="25" height="25"> **Aprimore Suas Habilidades**: Tenha descontos em treinamentos e eventos, além de acesso a todos os projetos da OWASP para aprimorar seus conhecimentos em AppSec.
 
-<img src="assets/images/owasp-JF-round-logo.png" alt="OWASP JF Icon" width="35" height="35"> **Utilize Ferramentas Exclusivas**: Aproveite o Google Workspace com um endereço OWASP.org e explore a plataforma [Ubiq](https://www.ubiqsecurity.com/owasp) para facilitar a implementação de criptografia.
+<img src="assets/images/owasp-JF-round-logo.png" alt="OWASP JF Icon" width="25" height="25"> **Utilize Ferramentas Exclusivas**: Aproveite o Google Workspace com um endereço OWASP.org e explore a plataforma [Ubiq](https://www.ubiqsecurity.com/owasp) para facilitar a implementação de criptografia.
 
-<img src="assets/images/owasp-JF-round-logo.png" alt="OWASP JF Icon" width="35" height="35"> **Contribua com a Comunidade**: Seja voluntário em projetos da OWASP e no capítulo de Juiz de Fora para fortalecer a segurança de software globalmente.
+<img src="assets/images/owasp-JF-round-logo.png" alt="OWASP JF Icon" width="25" height="25"> **Contribua com a Comunidade**: Seja voluntário em projetos da OWASP e no capítulo de Juiz de Fora para fortalecer a segurança de software globalmente.
 
 ### Faça parte da comunidade global que está avançando na segurança de software.
 
