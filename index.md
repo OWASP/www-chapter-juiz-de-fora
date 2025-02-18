@@ -10,8 +10,7 @@ meetup-group: owasp-juiz-de-fora-chapter
 
 ---
 
-## Seja bem-vindo!
-Seja bem-vindo a página da OWASP Chapter Juiz de Fora!
+## Seja bem-vindo a página da OWASP Chapter Juiz de Fora!
 
 <br>
 <center>
@@ -19,8 +18,8 @@ Seja bem-vindo a página da OWASP Chapter Juiz de Fora!
 </center>
 
 <br>
-A OWASP Juiz de Fora é o segundo capítulo mineiro entre os mais de duzentos e sessenta e cinco capítulos ativos ao redor do mundo. Nosso objetivo é disseminar a missão da OWASP, tornando a segurança das aplicações visível, para que pessoas e organizações possam fazer escolhas informadas sobre os riscos reais à segurança das aplicações.
-Encontros serão organizados para possibilitar o compartilhamento de conhecimentos, discussões e aprendizado sobre segurança de software. A organização também conta com diversos projetos ativos, nos quais voluntários podem se engajar para desenvolver códigos e documentos que beneficiem a comunidade global de segurança.<br>
+A OWASP Juiz de Fora é o segundo capítulo mineiro entre os mais de duzentos e sessenta e cinco capítulos ativos ao redor do mundo. Nosso propósito é promover a conscientização sobre segurança de software, capacitando indivíduos e empresas a tomarem decisões embasadas para reduzir riscos e fortalecer a proteção de aplicações.
+Realizaremos eventos para estimular o compartilhamento de experiências, debates e a evolução contínua no campo da segurança da informação. Além disso, contamos com iniciativas ativas, onde voluntários podem contribuir no desenvolvimento de ferramentas e materiais que impactam positivamente a comunidade global.<br>
 <br>
 Juiz de Fora, localizada na Zona da Mata de Minas Gerais, teve um crescimento impulsionado pelo café no século XIX e pela industrialização no século XX.
 A cidade se destacou com a instalação da Usina Hidrelétrica de Marmelos em 1889, a primeira da América do Sul, e pela chegada da Estrada de Ferro Dom Pedro II em 1875, que conectou a região ao Rio de Janeiro e ao restante do país.
@@ -30,10 +29,9 @@ Com uma economia diversificada, Juiz de Fora preserva sua relevância cultural, 
 
 ## Por que fazer parte da OWASP Juiz de Fora?
 <ul>
-<li>A comunidade organiza encontros onde especialistas fazem apresentações e seminários sobre tópicos de segurança de software.</li>
-<li>A participação na comunidade aumentará seus conhecimentos e habilidades.</li>
-<li>Oportunidade de interagir com outros profissionais de software aumentando os seus contatos na região.</li>
-<li>A participação nas listas de discussão e a participação nas sessões da OWASP Juiz de Fora são gratuitas.</li>
+<li>Eventos com especialistas proporcionando aprendizado prático e debates sobre segurança de software.</li>
+<li>Participar da comunidade amplia conhecimentos, fortalece habilidades e gera novas oportunidades.</li>
+<li>A participação nas sessões, encontros e eventos da OWASP Juiz de Fora são totalmente gratuitos, permitindo interação e a troca de experiências entre profissionais de todos os níveis.</li>
 </ul>
 <br>
 
