@@ -1,0 +1,30 @@
+community:
+  - name: chapter-juiz-de-fora
+    platform: slack
+    url: https://owasp.slack.com/archives/C09ADUM162D
+leaders:
+  - name: Henrique Cabral
+    email: henrique.cabral@owasp.org
+    github: HenriqueOCabral
+  - name: Kevin Azevedo
+    email: kevin.azevedo@owasp.org
+  - name: Igor Baio
+    email: igor.baio@owasp.org
+location:
+  country: Brazil
+  country_code: BR
+  region: Minas Gerais
+  city: Juiz de Fora
+  latitude: -21.7609533
+  longitude: -43.3501129
+meetup_group: owasp-juiz-de-fora-chapter
+name: OWASP Juiz de Fora
+repositories:
+  - name: www-chapter-juiz-de-fora
+    url: https://github.com/OWASP/www-chapter-juiz-de-fora
+    description: OWASP Foundation web repository
+tags:
+  - chapter-juiz-de-fora
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-juiz-de-fora
